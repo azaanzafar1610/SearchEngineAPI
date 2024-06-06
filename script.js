@@ -4,7 +4,7 @@ const searchForm = document.getElementById("search-form");
 const searchBox = document.getElementById("search-box");
 const searchResult = document.getElementById("search-result");
 const showMoreBtn = document.getElementById("show-more-btn");
-const accessKey = "X1ueP_19iftlVeL9vrJ19fHAmPBPyoSpCClkZDN1V6M"
+const accessKey = ""
 let keyword = "";
 let page = 1;
 
